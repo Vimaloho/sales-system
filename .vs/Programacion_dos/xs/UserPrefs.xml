@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{ACF7AFCA-40EF-46EF-9547-50B07C8F6737}|Default">
   <MonoDevelop.Ide.ItemProperties.Programacion__dos PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Programacion_dos/RegistroVentas/Contabilidad.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Programacion_dos/RegistroVentas/Program.cs">
     <Files>
-      <File FileName="Programacion_dos/RegistroVentas/Program.cs" Line="72" Column="1" />
+      <File FileName="Programacion_dos/RegistroVentas/Program.cs" Line="93" Column="10" />
       <File FileName="Programacion_dos/RegistroVentas/Vendedor.cs" Line="9" Column="2" />
       <File FileName="Programacion_dos/RegistroVentas/Producto.cs" Line="7" Column="27" />
       <File FileName="Programacion_dos/RegistroVentas/Venta.cs" Line="11" Column="1" />
-      <File FileName="Programacion_dos/RegistroVentas/Contabilidad.cs" Line="6" Column="6" />
+      <File FileName="Programacion_dos/RegistroVentas/Contabilidad.cs" Line="39" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +14,7 @@
           <Node name="Programacion_dos" expanded="True">
             <Node name="Programacion_dos" expanded="True">
               <Node name="RegistroVentas" expanded="True">
-                <Node name="Contabilidad.cs" selected="True" />
+                <Node name="Program.cs" selected="True" />
               </Node>
             </Node>
           </Node>
